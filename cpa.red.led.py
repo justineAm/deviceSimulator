@@ -56,3 +56,6 @@ while True:
     sleep(0.5)
     cp.red_led = False
     sleep(0.5)
+
+
+    #edited by patrick gwapo, ayaw kol.
